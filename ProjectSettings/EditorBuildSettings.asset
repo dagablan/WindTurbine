@@ -9,5 +9,7 @@ EditorBuildSettings:
     path: Assets/TunnelWind/Scenes/TunnelWind.unity
     guid: 70c3dcd697bfa0e4fb6cac0d507af3f5
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ce9f84e42e79d1e4b91b3405fe7d413f,
+      type: 2}
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 7867800de0c22f34f9c0e1a5cdc38ee5,
       type: 2}
